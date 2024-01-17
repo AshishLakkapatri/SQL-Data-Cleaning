@@ -30,3 +30,10 @@ This section identifies and retains only unique records based on a combination o
 ## Delete Unused Columns
 Unused columns such as `OwnerAddress`, `TaxDistrict`, `PropertyAddress`, `SaleDate` are removed from the dataset.
 
+
+## Acknowledgments
+
+This project is part of a YouTube tutorial series led by [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst). The skills applied in this project were acquired under his guidance, and the analysis serves as a practical demonstration of SQL techniques for data cleaning.
+
+For a more in-depth understanding of the project and SQL skills, refer to the tutorial series on Alex the Analyst's [YouTube channel](https://www.youtube.com/@AlexTheAnalyst).
+
