@@ -30,6 +30,3 @@ This section identifies and retains only unique records based on a combination o
 ## Delete Unused Columns
 Unused columns such as `OwnerAddress`, `TaxDistrict`, `PropertyAddress`, `SaleDate` are removed from the dataset.
 
-
-## Importing Data Using OPENROWSET and BULK INSERT (Optional)
-This optional section showcases advanced methods to import data using OPENROWSET and BULK INSERT. Note that it requires specific server configurations.
